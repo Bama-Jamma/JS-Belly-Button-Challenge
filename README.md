@@ -7,7 +7,7 @@
 
 The Belly Button Biodiversity Dashboard is an interactive web application that allows users to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels. The dataset reveals the presence of various microbial species (operational taxonomic units, or OTUs) in different individuals. This dashboard provides visualizations, including a horizontal bar chart and a bubble chart, to explore the top 10 OTUs found in each individual's belly button. Additionally, it displays the sample metadata, providing demographic information for each individual. The dashboard also includes a gauge chart showing the weekly washing frequency of the selected individual (bonus feature).
 
-## App deployment can be found here:  https://bama-jamma.github.io/JS-Belly-Button-Challenge/
+## App deployment can be found here:  [Belly Button Biodiversity Dashboard App](https://bama-jamma.github.io/JS-Belly-Button-Challenge/).
 
 ## Features
 
